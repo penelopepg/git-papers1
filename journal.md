@@ -10,3 +10,6 @@ Results indicate that blabla (p = 0,001).
 
 # Figures section
 Pretty graphs here.
+
+# Add conclusions here
+Blablabla
