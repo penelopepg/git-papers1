@@ -1,5 +1,5 @@
 # Add author names and paper title 
-Pénélope Bip Bop & Friends
+Pénélope (Université de Montréal) & Friends (McGill)
 Science etc. 
 
 # Write introduction section 
